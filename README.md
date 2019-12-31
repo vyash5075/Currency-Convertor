@@ -4,5 +4,5 @@
 * CSS
 * Javascript
 * Ajax
-## [API Resoure](https://free.currencyconverterapi.com)
+## [API Resource](https://free.currencyconverterapi.com)
 ### Deployed[ Here ](https://vyash5075.github.io/Currency-Convertor)
