@@ -3,6 +3,6 @@
 * HTML
 * CSS
 * Javascript
-*Ajax
+* Ajax
 * [API Resoure](https://free.currencyconverterapi.com)
 ### Deployed[ Here ](https://vyash5075.github.io/Currency-Convertor)
